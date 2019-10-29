@@ -1,0 +1,3 @@
+[submodule "Pomodorro/studyTimer"]
+	path = Pomodorro/studyTimer
+	url = https://github.com/Jimbo16/studyTimer.git
