@@ -1,0 +1,10 @@
+This is a 3 part lesson plan where students will learn loops, functions and how to add components to a board. Students will
+create Pomodorro Timer, which will light one LED every 5 minutes. 
+
+Another addition would be to use the Adafruit Stemma speaker to notify the user when a break is over.
+      -If using the speaker and MakeCode, remember that there is not specific MakeCode block to write a frequency to a pin.
+      Therefore, Pin 1 is used as the general pin for the Trinket M0. Simply attach the Pin 1 to signal and the pwr and gnd as 
+      normal. Then you can drag over a block such as play "ba -ding."
+      - Remember that regular piezos are too low to actually make a useful noise. 
+
+
